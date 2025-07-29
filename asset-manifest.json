@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serros/static/css/main.e6c13ad2.css",
+    "main.js": "/serros/static/js/main.ef8abc0e.js",
+    "static/js/453.c981ec06.chunk.js": "/serros/static/js/453.c981ec06.chunk.js",
+    "index.html": "/serros/index.html",
+    "main.e6c13ad2.css.map": "/serros/static/css/main.e6c13ad2.css.map",
+    "main.ef8abc0e.js.map": "/serros/static/js/main.ef8abc0e.js.map",
+    "453.c981ec06.chunk.js.map": "/serros/static/js/453.c981ec06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef8abc0e.js"
+  ]
+}
